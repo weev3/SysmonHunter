@@ -4,3 +4,4 @@ neo4j
 termcolor
 flask
 pyyaml
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
